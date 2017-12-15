@@ -12,7 +12,7 @@ There are 3 types of relations in a ralational database:
 
 We will start with the **"One to Many"** relation and look at the 2 others next time.
 
-![](https://github.com/StudentsAdministration/17_agenda/blob/master/slides/en-mange.png)
+<div width="300px">![](https://github.com/StudentsAdministration/17_agenda/blob/master/slides/en-mange.png)</div>
 ![](https://github.com/StudentsAdministration/17_agenda/blob/master/slides/en-mange-tabeller.png)
 
 
