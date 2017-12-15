@@ -12,6 +12,11 @@ There are 3 types of relations in a ralational database:
 
 We will start with the **"One to Many"** relation and look at the 2 others next time.
 
+![](https://github.com/StudentsAdministration/17_agenda/blob/master/slides/en-mange.png)
+![](https://github.com/StudentsAdministration/17_agenda/blob/master/slides/en-mange-tabeller.png)
+
+
+### Joining the tables in a query
 When we have modeled the database (created the tables and made the connections) we also need to query the tables (like we did so fare with the SELECT statement). For this we need to join or merge the table data.
 
 This semester you will learn about 3 types of JOINS:
