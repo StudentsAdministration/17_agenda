@@ -12,12 +12,8 @@ There are 3 types of relations in a ralational database:
 
 We will start with the **"One to Many"** relation and look at the 2 others next time.
 
-<div width="300px">
-  ![](https://github.com/StudentsAdministration/17_agenda/blob/master/slides/en-mange.png)
-</div>    
-<div width="300px">
-![](https://github.com/StudentsAdministration/17_agenda/blob/master/slides/en-mange-tabeller.png)
-</div>
+ <img src="https://github.com/StudentsAdministration/17_agenda/blob/master/slides/en-mange.png" width="300px" />
+ <img src="https://github.com/StudentsAdministration/17_agenda/blob/master/slides/en-mange-tabeller.png" width="300px" />
 
 ### Joining the tables in a query
 When we have modeled the database (created the tables and made the connections) we also need to query the tables (like we did so fare with the SELECT statement). For this we need to join or merge the table data.
