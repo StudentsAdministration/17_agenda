@@ -1,4 +1,4 @@
-# #17 Relations between tables
+# #17 Databases and relations between tables
 
 
 ## Inner Join
