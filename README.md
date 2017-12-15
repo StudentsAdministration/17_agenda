@@ -2,15 +2,22 @@
 
 
 ## Inner Join
+<sub>[Link to literature](https://www.w3schools.com/sql/sql_join_inner.asp)</sub>    
+
 A INNER JOIN returns records that have matching values in both tables.
 
-![Inner Join](https://www.w3schools.com/sql/img_innerjoin.gif)    
+![Inner Join](https://www.w3schools.com/sql/img_innerjoin.gif)      
 
+The INNER JOIN keyword selects records that have matching values in both tables.
 
 ## Left Join
-A LEFT JOIN returns all records from the left table, and the matched records from the right table.    
+<sub>[Link to literature](https://www.w3schools.com/sql/sql_join_left.asp)</sub>    
 
-![Inner Join](https://www.w3schools.com/sql/img_leftjoin.gif) 
+A LEFT JOIN returns all records from the left table, and the matched records from the right table. 
+
+![Inner Join](https://www.w3schools.com/sql/img_leftjoin.gif)    
+
+The LEFT JOIN keyword returns all records from the left table (table1), and the matched records from the right table (table2). The result is NULL from the right side, if there is no match.
 
 An example from the StudentsAdministration application.
 ````     
@@ -23,9 +30,13 @@ Here we get the student with the id = 1 since there is a left join we are sure t
 If we would have used an INNER JOIN nothing would have been selected if the student did not have any enrollments.
 
 ## Right Join
+<sub>[Link to literature](https://www.w3schools.com/sql/sql_join_right.asp)</sub>     
+
+The RIGHT JOIN returns all records from the right table, and the matched records from the left table
 
 ![Inner Join](https://www.w3schools.com/sql/img_rightjoin.gif) 
 
+The RIGHT JOIN keyword returns all records from the right table (table2), and the matched records from the left table (table1). The result is NULL from the left side, when there is no match.    
 
 ## Literature
 
