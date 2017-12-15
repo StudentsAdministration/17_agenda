@@ -40,7 +40,7 @@ The RIGHT JOIN keyword returns all records from the right table (table2), and th
 
 ## Literature
 
-* [Slides from Today]()
+* [Slides from Today](https://github.com/StudentsAdministration/17_agenda/blob/master/slides/Database_Modeling_Relationships.pdf)
 * [SQL Joins](https://www.w3schools.com/sql/sql_join.asp)
 * [SQL INNER JOIN](https://www.w3schools.com/sql/sql_join_inner.asp)
 * [SQL LEFT JOIN](https://www.w3schools.com/sql/sql_join_left.asp)
