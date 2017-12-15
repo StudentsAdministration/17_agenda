@@ -1,5 +1,28 @@
 # #17 Databases and relations between tables
 
+## What we will cover today
+Today we will work with raltions between tables.     
+So far you have worked with one table (e.g. students). But a student can be in a class for instance this one, SWC 2<sup>nd</sup> Semester. And the class and the student is related. How this is model in a database we will look at today.    
+
+There are 3 types of relations in a ralational database:
+
+* one to one
+* **one to many**
+* many to many
+
+We will start with the **"One to Many"** relation and look at the 2 others next time.
+
+When we have modeled the database (created the tables and made the connections) we also need to query the tables (like we did so fare with the SELECT statement). For this we need to join or merge the table data.
+
+This semester you will learn about 3 types of JOINS:
+
+* **INNER JOIN**
+* LEFT JOIN
+* RIGHT JOIN
+
+Today we will work with the **INNER JOIN** and look at the 2 others next time.
+
+* [Slides from Today](https://github.com/StudentsAdministration/17_agenda/blob/master/slides/Database_Modeling_Relationships.pdf)
 
 ## Inner Join
 <sub>[Link to literature](https://www.w3schools.com/sql/sql_join_inner.asp)</sub>    
